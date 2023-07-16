@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: #f5f5f5;
+}
+
+.princ {
+    
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+
+.titulo {
+    text-align: center;
+    font-size: 40px;
+    color: darkolivegreen;
+    align-items: center;
+}
+
+.principal {
+   padding: 0 20% 30px; 
+   text-align: center;
+   font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: darkolivegreen;
+    align-items: center; 
+}
+
+.topicos {
+    display: flex;
+    padding: 0 10%;
+}
+
+.objetivos {
+    background-color: azure;
+    width: 100%;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+.topico {
+    width: 45%;
+    border: 2px solid gray;
+    border-radius: 5%;
+    margin: 5px;
+    padding: 10px;
+
+    text-align: center;
+}
