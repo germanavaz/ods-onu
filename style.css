@@ -313,6 +313,14 @@ footer {
     padding: 0 10%;
     text-align: center;
   }
+  .sobre titulo {
+    font-size: 1.1rem;
+  }
+
+  .principal {
+    font-size: 1rem;
+    width: fit-content;
+  }
 
   .princ img {
     padding: 0;
@@ -336,6 +344,11 @@ footer {
     justify-content: space-around;
     align-items: center;
   }
+
+  .saiba div {
+    font-size:1rem;
+    width: contain;
+}
 
   iframe {
     width: fit-content;
